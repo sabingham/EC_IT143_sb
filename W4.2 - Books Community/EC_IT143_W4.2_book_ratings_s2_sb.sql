@@ -1,0 +1,3 @@
+-- Q: What book has the most ratings?
+
+-- A: Let's ask SQL Server and find out...
